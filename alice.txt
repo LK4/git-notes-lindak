@@ -1,2 +1,6 @@
 Lasagne!!!!!
+<<<<<<< HEAD
 and ice tea....
+=======
+Alice likes Gin and Tonics
+>>>>>>> 338b0357445773407bfef1c7864c1bd3913ebfa4
